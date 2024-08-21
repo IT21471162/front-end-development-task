@@ -1,0 +1,715 @@
+.px .white-logo {
+  width: 238.89px;
+  height: 25px;
+}
+.px .logo {
+  display: flex;
+  width: 238.9px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.px .services {
+  margin-right: 8.5px;
+  width: 68px;
+  height:17px;
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  line-height: 16.94px;
+  color: #FFFFFF;
+}
+.px .about-us-1 {
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  width:73px;
+  height: 17px;
+  line-height: 16.94px;
+  color: #FFFFFF;
+}
+.px .contact-us {
+  width:92px;
+  height: 17px;
+  line-height:16.94px;
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  color: #FFFFFF;
+}
+.px .careers {
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  width: 64px;
+  height: 17px;
+  line-height: 16.94px;
+  color: #FFFFFF;
+}
+.px .frame-496 {
+  margin: 15.1px 0 4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 381px;
+  box-sizing: border-box;
+}
+
+
+.px .top-navigation {
+  background: #6B3CC9;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 26px 80px 26px 80px;
+  width: 1440px;
+  height: 77px;
+  box-sizing: border-box;
+}
+.px .we-crushe-your-competitors-goals-and-sales-records-without-the-bs {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 48px;
+  letter-spacing: -0.02em;
+  line-height: 48px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  
+  width: 556px;
+  height: 192px;
+}
+.px .get-free-consultation-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.px .button-1 {
+  border-radius: 4px;
+  background: #F28D35;
+  display: flex;
+  align-self: flex-start;
+  padding: 12px 20.3px 12px 20px;
+  box-sizing: border-box;
+}
+.px .frame-497 {
+  background: linear-gradient(256.73deg, #1CBDDD, #4DCA79), linear-gradient(#FFFFFF, #FFFFFF);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  padding: 24px 40px 32px;
+  box-sizing: border-box;
+  width: 630px;
+  height: 306px;
+  gap:20px;
+  position: absolute;
+  left:80px;
+  bottom:40px;
+  
+  
+}
+.px .hero-section {
+  background: url('../assets/images/dekstop.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 80px;
+  padding: 354px 80px 40px 80px;
+  width: 1440px;
+  height:700px;
+  box-sizing: border-box;
+}
+.px .image-2 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  margin-right: 108px;
+  width: 414px;
+  height: 414px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  
+}
+.px .web-mobile-app-development {
+  overflow-wrap: break-word;
+  font-family: var(--poppins-h-3-poppins-27-px-semi-bold-font-family, 'Poppins');
+  font-weight: var(--poppins-h-3-poppins-27-px-semi-bold-font-weight, 600);
+  font-size: var(--poppins-h-3-poppins-27-px-semi-bold-font-size, 27px);
+  letter-spacing: var(--poppins-h-3-poppins-27-px-semi-bold-letter-spacing, 0.4px);
+  line-height: var(--poppins-h-3-poppins-27-px-semi-bold-line-height, 1.222);
+  color: #6B3CC9;
+}
+.px .frame-742 {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.px .your-web-and-mobile-apps-are-pieces-of-the-puzzle-to-grow-your-business-we-use-frameworks-which-tailor-content-and-engagement-methods-to-respond-to-different-intents-shown-by-your-potential-customers-who-interact-with-your-business-online {
+  margin-bottom: 20px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.px .get-free-consultation-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.px .button-2 {
+  border-radius: 4px;
+  background: #F28D35;
+  align-self: flex-start;
+  padding: 12px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.px .frame-921 {
+  margin: 113.5px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.px .frame-498 {
+  margin: 0 31px 80px 0;
+  display: flex;
+  flex-direction: row;
+  width: 1064px;
+  height: 414px;
+  top: 857px;
+  left: 188px;
+  gap: 108px;
+  box-sizing: border-box;
+  
+}
+.px .digital-strategy-consulting {
+  overflow-wrap: break-word;
+  font-family: var(--poppins-h-3-poppins-27-px-semi-bold-font-family, 'Poppins');
+  font-weight: var(--poppins-h-3-poppins-27-px-semi-bold-font-weight, 600);
+  font-size: var(--poppins-h-3-poppins-27-px-semi-bold-font-size, 27px);
+  letter-spacing: var(--poppins-h-3-poppins-27-px-semi-bold-letter-spacing, 0.4px);
+  line-height: var(--poppins-h-3-poppins-27-px-semi-bold-line-height, 1.222);
+  color: #6B3CC9;
+}
+.px .frame-74 {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.px .your-digital-strategy-should-complement-the-overall-marketing-strategy-of-the-company-in-online-marketing-each-component-will-never-work-in-isolation-and-every-business-needs-adifferent-mix-we-provide-aclear-concept-and-strategic-overview-to-find-the-most-efficient-model-for-your-business {
+  margin-bottom: 20px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.px .get-free-consultation {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.px .button {
+  border-radius: 4px;
+  background: #F28D35;
+  align-self: flex-start;
+  padding: 12px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.px .frame-92 {
+  margin: 113.5px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.px .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  width: 414px;
+  height: 416px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.px .frame-499 {
+  margin-bottom: 100px;
+  display: flex;
+  flex-direction: row;
+  width: 1064px;
+  height: 416px;
+  top: 1351px;
+  left: 188px;
+  gap: 108px;
+  box-sizing: border-box;
+}
+.px .line-5 {
+  background: #F28D35;
+  width: 190.4px;
+  height: 0px;
+}
+.px .frame-741 {
+  margin: 0 303.7px 15px 0;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.px .frame-91 {
+  display: flex;
+  box-sizing: border-box;
+}
+.px .frame-93 {
+  box-shadow: 0px 0px 15px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 48.5px 66.4px 48.5px 0;
+  box-sizing: border-box;
+}
+
+.px .group-4 {
+  position: relative;
+  margin-bottom: 100px;
+  padding: 81px 0 81px 82px;
+  box-sizing: border-box;
+}
+.px .white-logo-1 {
+  width: 238.9px;
+  height: 36.1px;
+}
+.px .logo-1 {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  width: 238.9px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.px .your-goal-is-our-target-not-anything-in-between-we-use-online-marketing-platforms-and-tools-to-achieve-single-objective-your-business-results {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.px .frame-500 {
+  margin-bottom: 97px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  width: 413px;
+  height: 102px;
+  gap: 20px;
+  }
+.px .our-technologies {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 21px;
+  color: #FFFFFF;
+}
+.px .react-js {
+  margin: 0 3.7px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .gatsby {
+  margin: 0 5.5px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .next-js {
+  margin: 0 10.5px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .node-js {
+  margin: 0 6.1px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .graph-ql {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .laravel {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .frame-5012 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.px .frame-5011 {
+  margin-right: 146.4px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.px .our-services {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 21px;
+  color: #FFFFFF;
+}
+.px .social-media-marketing {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .web-mobile-app-development-1 {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .data-analytics {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .google-marketing-solutions {
+  margin: 0 0.1px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .search-engine-optimization {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .frame-501 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.px .frame-4961 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.px .frame-502 {
+  margin-top: 11.1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.px .frame-503 {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.px .line-6 {
+  background: #FFFFFF;
+  margin-bottom: 7px;
+  width: 630px;
+  height: 0px;
+}
+.px .privacy-policy {
+  width:94px;
+  height: 17px;
+  margin-right: 16.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  line-height: 16.94px;
+  color: #FFFFFF;
+}
+.px .line-7 {
+  background: #FFFFFF;
+  margin: 0.5px 15px 0.5px 0;
+  width: 16px;
+  height: 0px;
+}
+.px .terms-conditions {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.px .frame-504 {
+  margin-right: 0.7px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.px .frame-505 {
+  margin-left: 40.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 630px;
+  box-sizing: border-box;
+}
+.px .frequently-asked-questions{
+margin: 0 0.2px 28px 0;
+display: inline-block;
+overflow-wrap: break-word;
+font-family: var(--poppins-h-3-poppins-27-px-semi-bold-font-family, 'Poppins');
+font-weight: var(--poppins-h-3-poppins-27-px-semi-bold-font-weight, 600);
+font-size: var(--poppins-h-3-poppins-27-px-semi-bold-font-size, 27px);
+letter-spacing: var(--poppins-h-3-poppins-27-px-semi-bold-letter-spacing, 0.4px);
+line-height: var(--poppins-h-3-poppins-27-px-semi-bold-line-height, 1.222);
+color: #6B3CC9;
+}
+.px .vector{
+  background: #6B3CC9;
+  width: 14px;
+  height: 0px;
+
+}
+.px .what-is-webflow-and-why-is-it-the-best-website-builder {
+  margin-right: 14px;
+  width: 744px;
+  gap: 40px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.273;
+  color: #6B3CC9;
+ 
+
+}
+.px .frame-12526{
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+width: 798px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+}
+.px .vitae-congue-eu-consequat-ac-felis-placerat-vestibulum-lectus-mauris-ultrices-cursus-sit-amet-dictum-sit-amet-justo-donec-enim-diam-porttitor-lacus-luctus-accumsan-tortor-posuere {
+  margin-right: 17.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: var(--neutral-600, #6F6C90);
+  width: 798px;
+  height: 60px;
+  flex:none;
+  order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+.px .faqs{
+border-radius: 7px;
+background: #FAF8FF;
+margin-bottom: 15px;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px;
+width: 846px;
+height:149px;
+box-sizing: border-box;
+}
+.px .faqs-1{
+border-radius: 7px;
+background: #FAF8FF;
+margin-bottom: 15px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding: 24px;
+width: 846px;
+box-sizing: border-box;
+}
+.px .frame-35623{
+
+
+  width: 14px;
+  height: 0px;
+ /* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.px .faqs-2 {
+  border-radius: 7px;
+  background: #FAF8FF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px;
+  width: 846px;
+  height: 76px;
+  gap: 13px;
+  box-sizing: border-box;
+}
+.px .frame-12527 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  width: 846px;
+  height:331px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+
+ 
+}
+.px .faqs-3{
+ 
+  margin-bottom: 80px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  position: absolute;
+  align-items: center;
+  width: 846px;
+  height: 392px;
+  top: 1847px;
+  left: 297px;
+  gap: 28px;
+ 
+}
+
+
+.px .footer {
+  background: #6B3CC9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 40px 20px 20px;
+  width: 1440px;
+  gap: 40px;
+ left: 0px;
+ top:2319px;
+  position:absolute;
+ 
+
+  
+}
+.px {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: 2585px;
+  top: -201px;
+  left:384px;
+  box-sizing: border-box;
+}

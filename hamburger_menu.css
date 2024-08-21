@@ -1,0 +1,89 @@
+.hamburger-menu .home {
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  color: var(--project-primary-color-smoky-black, #100C08);
+}
+.hamburger-menu .nav-link {
+  margin-bottom: 43px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.hamburger-menu .services {
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  color: var(--project-primary-color-smoky-black, #100C08);
+}
+.hamburger-menu .nav-link-4 {
+  margin-bottom: 43px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.hamburger-menu .about-us {
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  color: var(--project-primary-color-smoky-black, #100C08);
+}
+.hamburger-menu .nav-link-1 {
+  margin: 0 19px 43px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.hamburger-menu .contact-us {
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  color: var(--project-primary-color-smoky-black, #100C08);
+}
+.hamburger-menu .nav-link-2 {
+  margin-bottom: 43px;
+  display: flex;
+  box-sizing: border-box;
+}
+.hamburger-menu .careers {
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  color: var(--project-primary-color-smoky-black, #100C08);
+}
+.hamburger-menu .nav-link-3 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.hamburger-menu .frame-6109 {
+  margin: 2.5px 217.8px 0 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-basis: 91.2px;
+  box-sizing: border-box;
+}
+.hamburger-menu .vector {
+  width: 23px;
+  height: 23px;
+}
+.hamburger-menu .primaryclose {
+  margin-bottom: 236.5px;
+  display: flex;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.hamburger-menu {
+  background: var(--style-guide-temp-color-white, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 23px 0 20px;
+  box-sizing: border-box;
+}

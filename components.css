@@ -1,0 +1,336 @@
+.components .white-logo {
+  width: 238.9px;
+  height: 36.1px;
+}
+.components .logo {
+  display: flex;
+  width: 238.9px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.components .services {
+  margin-right: 8.5px;
+  width: 68px;
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  color: #FFFFFF;
+}
+.components .about-us {
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  color: #FFFFFF;
+}
+.components .contact-us {
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  color: #FFFFFF;
+}
+.components .careers {
+  overflow-wrap: break-word;
+  font-family: var(--body-1-font-family, 'Inter');
+  font-weight: var(--body-1-font-weight, 500);
+  font-size: var(--body-1-font-size, 14px);
+  color: #FFFFFF;
+}
+.components .frame-496 {
+  margin: 15.1px 0 4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 381px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.components .top-navigation {
+  background: #6B3CC9;
+  margin-bottom: 90px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  padding: 14.9px 80px 26px 80px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.components .get-free-consultation {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: -0.3px;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.components .button {
+  border-radius: 4px;
+  background: #F28D35;
+  margin-bottom: 385px;
+  display: flex;
+  align-self: flex-start;
+  padding: 12px 20.3px 12px 20px;
+  box-sizing: border-box;
+}
+.components .white-logo-1 {
+  width: 238.9px;
+  height: 36.1px;
+}
+.components .logo-1 {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  width: 238.9px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.components .your-goal-is-our-target-not-anything-in-between-we-use-online-marketing-platforms-and-tools-to-achieve-single-objective-your-business-results {
+  overflow-wrap: break-word;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.components .frame-500 {
+  margin-bottom: 97px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.components .our-technologies {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 21px;
+  color: #FFFFFF;
+}
+.components .react-js {
+  margin: 0 3.7px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .gatsby {
+  margin: 0 5.5px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .next-js {
+  margin: 0 10.5px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .node-js {
+  margin: 0 6.1px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .graph-ql {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .laravel {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .frame-5012 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.components .frame-5011 {
+  margin-right: 146.4px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.components .our-services {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 21px;
+  color: #FFFFFF;
+}
+.components .social-media-marketing {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .web-mobile-app-development {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .data-analytics {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .google-marketing-solutions {
+  margin: 0 0.1px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .search-engine-optimization {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .frame-501 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.components .frame-4961 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.components .frame-502 {
+  margin-top: 11.1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.components .frame-503 {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.components .line-6 {
+  background: #FFFFFF;
+  margin-bottom: 7px;
+  width: 630px;
+  height: 0px;
+}
+.components .privacy-policy {
+  margin-right: 16.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .line-7 {
+  background: #FFFFFF;
+  margin: 0.5px 15px 0.5px 0;
+  width: 16px;
+  height: 0px;
+}
+.components .terms-conditions {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.components .frame-504 {
+  margin-right: 0.7px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.components .frame-505 {
+  margin-left: 12.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 630px;
+  box-sizing: border-box;
+}
+.components .footer {
+  background: #6B3CC9;
+  margin: 0 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  padding: 28.9px 92.3px 20px 80px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.components {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 215px 0 238px 77px;
+  width: 1876px;
+  box-sizing: border-box;
+}
